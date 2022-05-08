@@ -12,7 +12,11 @@
 
 ![2017_data](https://github.com/cewarkentin/stock-analysis/blob/main/2017%20data.png)
 
+![VBA_Challenge_2017](https://github.com/cewarkentin/stock-analysis/blob/main/VBA%20Challenge%202017.png)
+
 ![2018_data](https://github.com/cewarkentin/stock-analysis/blob/main/2018%20data.png)
+
+![VBA_Challenge_2018](https://github.com/cewarkentin/stock-analysis/blob/main/VBA%20Challenge%202018.png)
 
 ## Summary
 
