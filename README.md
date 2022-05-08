@@ -6,6 +6,14 @@
 
 ### Purpose
 
+We were tasked with providing Steve with data analysis on a selection of stocks so that he can appropriately advise his first clients (and also parents) on making informed investments in green energy.
+
+### Methods
+
+Steve provided information for green energy stocks for us to analyze; for each day of data collection, the excel sheet included information on the opening, high, low, and closing prices, as well as the adjusted closing price and volume for each organization.
+
+Using this data, our goal was to find the Total Daily Volume and 
+
 ## Results
 
 -the analysis is well described with screenshots and code
