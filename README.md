@@ -36,6 +36,6 @@ Run times for the program could have been improved if we had used functions that
 
 ## Summary
 
--there is a detailed statement on the advantages and disadvantages of refactoring code in general
+Refactoring code means taking an original piece of code and editing it for more efficient processing. Refactoring is advantageous to save time for the programmer because they do not have to start completely from scratch. The programmer already has a basic structure and flow that they know works for similar comparable tasks--they are just editing to take fewer steps, use less memory, and/or improve the logic of the code to make it easier for future users to read. Refactoring code is often used to streamline early attempts at problem-solving. However, refactoring can be disadvantagous because it is time consuming, especially considering if the original code gets the job done. Depending on the constraints of a project, taking the time to refactor code may be disadvantageous. Additionally, it is important to keep track of whether or not the refactoring is maintaining the functionality of the original code. During this refactoring task, I definitely struggled with maintaining the functionality of the original code when I was making my adjustments during the refactoring process.
 
 -there is a detailed statement on the advantages and disadvantages of the original and refactored VBA script
