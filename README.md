@@ -20,15 +20,19 @@ return = (Final Closing Price / Starting Closing Price) - 1
 
 ## Results
 
--the analysis is well described with screenshots and code
+Given that we are using Excel for these calculations, I would like to continue analysis using a Pivot Table to compare results from 2017 and 2018. More data would give a much more useful picture for larger trends in stock, especially considering the two years that we do have data for tell two different stories (i.e. the majority of the stocks had positive returns in 2017 but negative returns in 2018).
 
 ![2017_data](https://github.com/cewarkentin/stock-analysis/blob/main/2017%20data.png)
-
-![VBA_Challenge_2017](https://github.com/cewarkentin/stock-analysis/blob/main/VBA%20Challenge%202017.png)
-
 ![2018_data](https://github.com/cewarkentin/stock-analysis/blob/main/2018%20data.png)
 
+It is difficult to advise Steve's parents on investing in green energy based solely on the information provided. However, the only two stocks with positive returns on investment two years in a row belonged to ENPH and RUN. The remainder of the stocks had at least one year with a negative return. 
+
+Between the two stocks with positive returns, RUN had a return that increased over the two-year period and ENPH had a return that decreased over the two-year period.
+
+![VBA_Challenge_2017](https://github.com/cewarkentin/stock-analysis/blob/main/VBA%20Challenge%202017.png)
 ![VBA_Challenge_2018](https://github.com/cewarkentin/stock-analysis/blob/main/VBA%20Challenge%202018.png)
+
+Run times for the program could have been improved if we had used functions that allowed us to skip over the remaining rows once we knew we had found the final data point for a given stock. For example, if instead of using a for loop to check every single row of data for the DQ ticker, we could go ahead to the next loop once we identified the final DQ data point. However, that does rely on the provided data to be organized in a specific way such that each ticker is grouped together. If the data was organized in such a way, it could improve run-time especially for larger data sets.
 
 ## Summary
 
